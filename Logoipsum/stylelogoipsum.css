@@ -43,9 +43,9 @@ header nav ul a{
     width: 211.02px;
     height: 60px;
     border-radius: 10px;
-    background: rgba(192, 52, 235, 0.25);
+    background: #FF7143;
     border: none;
-    color: #ac1443;
+    color: #FFF;
     font-size: 17px;
     font-weight: 700;
     letter-spacing: -0.531px;
@@ -58,7 +58,7 @@ header nav ul a{
     padding-top: 68px;
 }
 .hero div h1{
-    color: red;
+    color: #19191B;
     font-family: "DM Sans", sans-serif;
     font-size: 75px;
     font-weight: 700;
